@@ -1,3 +1,6 @@
 go
 eclipse
 spark-1.2.1
+**/*.mexa64
+**/*.a
+**/*.o
